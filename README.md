@@ -2,11 +2,11 @@
 
 A Claude skill that checks your active Meta ads against their landing pages and flags mismatches, such as an offer, product or creator from the ad that's missing after the click. It ranks the problems by ad spend, so you know what to fix first.
 
-Made by [Shogun](https://getshogun.com). Read the full guide: [add blog post link]
+Made by [Shogun](https://getshogun.com).
 
 ## Download
 
-**[Download SKILL.md](https://github.com/[your-org]/[repo-name]/releases/latest/download/SKILL.md)**
+**[Download SKILL.md](https://github.com/rshaw-shogun/ad-landing-page-audit/releases/latest/download/SKILL.md)**
 
 It's a single plain-text file with no code or scripts. You can read it in full in this repo ([SKILL.md](SKILL.md)) before downloading. The skill only reports and suggests fixes. It never changes your ads, budgets or pages.
 
@@ -41,6 +41,6 @@ To run it every week, ask Claude: "Create a scheduled task that runs the ad–la
 
 ## Updates
 
-New versions are published under [Releases](https://github.com/[your-org]/[repo-name]/releases). The download link above always gets the latest one.
+New versions are published under [Releases](https://github.com/rshaw-shogun/ad-landing-page-audit/releases). The download link above always gets the latest one.
 
 Questions or ideas? Email [ryan@getshogun.com](mailto:ryan@getshogun.com).

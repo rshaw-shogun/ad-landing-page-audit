@@ -4,8 +4,6 @@
 
 [![Download SKILL.md](https://img.shields.io/badge/Download-SKILL.md-7c5cff?style=for-the-badge)](https://github.com/rshaw-shogun/ad-landing-page-audit/releases/latest/download/SKILL.md)
 
-![Downloads](https://img.shields.io/github/downloads/rshaw-shogun/ad-landing-page-audit/total?style=for-the-badge&label=Downloads&color=7c5cff)
-
 Free · One plain-text file · No code · Set up in under 5 minutes
 
 ![An ad promising 40% off leads to a product page with full price and no sign of the creator](feature.png)
@@ -85,3 +83,5 @@ The skill is free. You'll need a Claude account that supports skills and connect
 New versions are published under [Releases](https://github.com/rshaw-shogun/ad-landing-page-audit/releases). The download button always gets the latest one.
 
 Made by [Shogun](https://getshogun.com). Questions or ideas? Email [ryan@getshogun.com](mailto:ryan@getshogun.com).
+
+![Downloads](https://img.shields.io/github/downloads/rshaw-shogun/ad-landing-page-audit/total?style=for-the-badge&label=Downloads&color=7c5cff)

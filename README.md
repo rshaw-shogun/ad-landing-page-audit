@@ -1,11 +1,10 @@
 # Find the Facebook ads that are losing sales after the click
 
 <p>
+  <img src="https://img.shields.io/github/downloads/rshaw-shogun/ad-landing-page-audit/total?style=flat-square&label=downloads&labelColor=131922&color=c52cd0" alt="Downloads">
   <img src="https://img.shields.io/badge/Claude-skill-8052ff?style=flat-square&labelColor=131922" alt="Claude skill">
   <img src="https://img.shields.io/badge/price-free-8052ff?style=flat-square&labelColor=131922" alt="Free">
   <img src="https://img.shields.io/github/license/rshaw-shogun/ad-landing-page-audit?style=flat-square&labelColor=131922&color=8052ff" alt="MIT license">
-  <!-- Downloads counter: delete the two comment markers around the next line once downloads look credible (around 100+). -->
-  <!-- <img src="https://img.shields.io/github/downloads/rshaw-shogun/ad-landing-page-audit/total?style=flat-square&label=downloads&labelColor=131922&color=c52cd0" alt="Downloads"> -->
 </p>
 
 **A free Claude skill that checks every active Meta ad against its landing page, flags the mismatches, and tells you which ones to fix first.**

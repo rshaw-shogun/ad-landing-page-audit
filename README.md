@@ -1,8 +1,20 @@
 # Find the Facebook ads that are losing sales after the click
 
+<p>
+  <img src="https://img.shields.io/badge/Claude-skill-8052ff?style=flat-square&labelColor=131922" alt="Claude skill">
+  <img src="https://img.shields.io/badge/price-free-8052ff?style=flat-square&labelColor=131922" alt="Free">
+  <img src="https://img.shields.io/github/license/rshaw-shogun/ad-landing-page-audit?style=flat-square&labelColor=131922&color=8052ff" alt="MIT license">
+  <!-- Downloads counter: delete the two comment markers around the next line once downloads look credible (around 100+). -->
+  <!-- <img src="https://img.shields.io/github/downloads/rshaw-shogun/ad-landing-page-audit/total?style=flat-square&label=downloads&labelColor=131922&color=c52cd0" alt="Downloads"> -->
+</p>
+
 **A free Claude skill that checks every active Meta ad against its landing page, flags the mismatches, and tells you which ones to fix first.**
 
-[![Download SKILL.md](https://img.shields.io/badge/Download-SKILL.md-7c5cff?style=for-the-badge)](https://github.com/rshaw-shogun/ad-landing-page-audit/releases/latest/download/SKILL.md)
+<p>
+  <a href="https://github.com/rshaw-shogun/ad-landing-page-audit/releases/latest/download/SKILL.md"><img src="btn-download.png" alt="Download the free skill" width="219"></a>
+  &nbsp;
+  <a href="SKILL.md"><picture><source media="(prefers-color-scheme: dark)" srcset="btn-read-dark.png"><img src="btn-read-light.png" alt="Read the skill file" width="173"></picture></a>
+</p>
 
 Free · One plain-text file · No code · Set up in under 5 minutes
 
@@ -78,10 +90,12 @@ The skill is free. You'll need a Claude account that supports skills and connect
 
 ## Download
 
-[![Download SKILL.md](https://img.shields.io/badge/Download-SKILL.md-7c5cff?style=for-the-badge)](https://github.com/rshaw-shogun/ad-landing-page-audit/releases/latest/download/SKILL.md)
+<p>
+  <a href="https://github.com/rshaw-shogun/ad-landing-page-audit/releases/latest/download/SKILL.md"><img src="btn-download.png" alt="Download the free skill" width="219"></a>
+  &nbsp;
+  <a href="SKILL.md"><picture><source media="(prefers-color-scheme: dark)" srcset="btn-read-dark.png"><img src="btn-read-light.png" alt="Read the skill file" width="173"></picture></a>
+</p>
 
 New versions are published under [Releases](https://github.com/rshaw-shogun/ad-landing-page-audit/releases). The download button always gets the latest one.
 
 Made by [Shogun](https://getshogun.com). Questions or ideas? Email [ryan@getshogun.com](mailto:ryan@getshogun.com).
-
-![Downloads](https://img.shields.io/github/downloads/rshaw-shogun/ad-landing-page-audit/total?style=for-the-badge&label=Downloads&color=7c5cff)
